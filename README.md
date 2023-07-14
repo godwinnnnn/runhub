@@ -1,10 +1,10 @@
 # runhub
 runhub for powertoys
 ## list
-[PowerTranslator][1] 翻译
-[emoji][2] 表情包
-[everything][3] 搜索文件
-//待探索
+[PowerTranslator][1] 翻译 </br>
+[emoji][2] 表情包 </br>
+[everything][3] 搜索文件</br>
+//待探索</br>
 
 
   [1]: https://github.com/N0I0C0K/PowerTranslator
