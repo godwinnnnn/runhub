@@ -1,5 +1,7 @@
 # runhub
-runhub for powertoys
+runhub for powertoys 
+powertoys run 的插件收集地
+
 ## list
 [PowerTranslator][1] 翻译 
 
@@ -10,7 +12,7 @@ runhub for powertoys
 [everything][3] 搜索文件
 
 
-//待探索</br>
+//待探索
 
 
 
